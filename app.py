@@ -103,6 +103,7 @@ st.markdown("""
             height: auto;
             border-radius: 12px;
             margin-top: 20px;
+            margin-left: 120px;
         }
     </style>
 """, unsafe_allow_html=True)
